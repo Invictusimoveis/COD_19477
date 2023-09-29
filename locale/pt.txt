@@ -1,0 +1,31 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_A2E31B74_B412_3107_41CA_D0F74F17D108.label = Acesso quartos
+panorama_A0E2874B_B415_F102_41E0_1C66AEC9AC81.label = Banheiro 2 andar
+panorama_A0ECC58A_B416_1102_41E3_78D931547A80.label = Escadas
+panorama_A0ED1367_B416_7102_41D4_A482FDD614E0.label = Garagem
+album_AD08B014_B476_2ECC_41DB_3EFF4575994F_3.label = IMG_8584
+album_AD08B014_B476_2ECC_41DB_3EFF4575994F_2.label = IMG_8587
+album_AD08B014_B476_2ECC_41DB_3EFF4575994F_1.label = IMG_8588
+album_AD08B014_B476_2ECC_41DB_3EFF4575994F_0.label = IMG_8590
+panorama_A0EF54CA_B416_3702_41DC_D3F670A95740.label = Quarto 1
+panorama_A0E8B37D_B416_1106_41CE_0E7B006A2E2C.label = Quarto 2
+panorama_A0E9A194_B416_F107_41D0_25F3B63F1D6B.label = Quintal da frente
+panorama_A0EA6E39_B416_1301_41E0_8C6018533BF8.label = Quintal fundos
+panorama_A0EADFF1_B416_F11E_41B7_F20B63E10006.label = Quintal fundos_
+panorama_A0EEA4A9_B416_170E_41A4_61AA059F22A5.label = Sala lareira
+panorama_D05BCE09_DD88_414F_41CD_9412D46F22BF.label = Sala_
+panorama_A0F091AC_B416_3107_41DB_45D2DF20DDF8.label = Suíte
+panorama_A0E2E906_B416_1102_41D1_C810DE832082.label = Suíte_hidro
+panorama_A0F63145_B416_1101_41E1_B6E2F3DFA6BB.label = Sótão
+album_AD08B014_B476_2ECC_41DB_3EFF4575994F.label = Álbum de Fotos IMG_8590
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Itapeti
